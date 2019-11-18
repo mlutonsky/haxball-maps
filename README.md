@@ -1,2 +1,2 @@
-# haxball-maps
-Custom Haxball maps
+# Haxball Maps
+Custom maps for [Haxball](https://haxball.com)
