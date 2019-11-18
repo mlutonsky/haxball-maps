@@ -7,5 +7,5 @@ Custom maps for [Haxball](https://haxball.com)
 - ideal for 2v2, 3v3
 
 ## Big Rounded with turbo
-- similar as Faster Bug Rounded, but palyers accelerate rapidly when kicking 
+- similar as Faster Big Rounded, but players accelerate rapidly when kicking 
 - ideal for 1v1, 2v2, 3v3
